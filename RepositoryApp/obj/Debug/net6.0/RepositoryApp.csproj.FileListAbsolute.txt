@@ -1,0 +1,5 @@
+C:\Users\Reagan\Desktop\PROGRAMMING\RepositoryApp\RepositoryApp\obj\Debug\net6.0\RepositoryApp.csproj.AssemblyReference.cache
+C:\Users\Reagan\Desktop\PROGRAMMING\RepositoryApp\RepositoryApp\obj\Debug\net6.0\RepositoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reagan\Desktop\PROGRAMMING\RepositoryApp\RepositoryApp\obj\Debug\net6.0\RepositoryApp.AssemblyInfoInputs.cache
+C:\Users\Reagan\Desktop\PROGRAMMING\RepositoryApp\RepositoryApp\obj\Debug\net6.0\RepositoryApp.AssemblyInfo.cs
+C:\Users\Reagan\Desktop\PROGRAMMING\RepositoryApp\RepositoryApp\obj\Debug\net6.0\RepositoryApp.csproj.CoreCompileInputs.cache
